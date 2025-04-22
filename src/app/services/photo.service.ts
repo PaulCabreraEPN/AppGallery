@@ -6,6 +6,7 @@ import {Preferences} from '@capacitor/preferences';
 @Injectable({
   providedIn: 'root'
 })
+
 export class PhotoService {
 
   constructor() { }
