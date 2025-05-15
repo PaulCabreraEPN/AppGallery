@@ -42,3 +42,30 @@ Una aplicación móvil desarrollada con **Ionic Framework**, que permite captura
 ```bash
 git clone https://github.com/tu_usuario/nombre-repo.git
 cd nombre-repo
+
+2. Instala las dependencias:
+
+```bash
+npm install
+
+3. Compila la aplicación:
+
+```bash
+npm build
+
+4. Sincroniza con Capacitor:
+
+```bash
+npx cap sync
+
+5. Abre el proyecto en Android Studio:
+
+```bash
+npx cap open android
+
+
+6. Desde Android Studio, ejecuta en un dispositivo o emulador.
+
+
+
+
